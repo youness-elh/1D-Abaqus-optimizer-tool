@@ -1,0 +1,1535 @@
+Waiting for signal to start extraction...
+-----------end now------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.256000042 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 136.177000046 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 125.236000061 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.46600008 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.355999947 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.334000111 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.622000217 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.5 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.572000027 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.555999994 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.373000145 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.214999914 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.709000111 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 114.924999952 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.017999887 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.083000183 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.714999914 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.217999935 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.489000082 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.85800004 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.217000008 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.307999849 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.601000071 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 121.523999929 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.736000061 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.613000154 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.502000093 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 123.437999964 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 135.614000082 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.467999935 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.930000067 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 123.56099987 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 118.052999973 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.880999804 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.305999994 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 125.638000011 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 117.279000044 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 122.782000065 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 116.963000059 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.941999912 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.61500001 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 119.569000006 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 125.585999966 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.576000214 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+ -----------------Extraction: start now----------------
+ We will extract data from the step number 0 for all its 145 frames 
+ 
+---------------Frame number 10 out of 145 frames-----------------
+ 
+---------------Frame number 20 out of 145 frames-----------------
+ 
+---------------Frame number 30 out of 145 frames-----------------
+ 
+---------------Frame number 40 out of 145 frames-----------------
+ 
+---------------Frame number 50 out of 145 frames-----------------
+ 
+---------------Frame number 60 out of 145 frames-----------------
+ 
+---------------Frame number 70 out of 145 frames-----------------
+ 
+---------------Frame number 80 out of 145 frames-----------------
+ 
+---------------Frame number 90 out of 145 frames-----------------
+ 
+---------------Frame number 100 out of 145 frames-----------------
+ 
+---------------Frame number 110 out of 145 frames-----------------
+ 
+---------------Frame number 120 out of 145 frames-----------------
+ 
+---------------Frame number 130 out of 145 frames-----------------
+ 
+---------------Frame number 140 out of 145 frames-----------------
+
+ Elapsed time for extraction is 124.547999859 seconds 
+---------------------------------extraction done successfully!----------------------------------------- 
+---------------------------------end now-----------------------------------------
+-----------------------------------------------------------------------------------------------
+Elapsed time to converge 164127.530132 seconds in 0 total iterations including search for descent direction and 24 main iterations 
+------------------------------------------------------------------------------------------------

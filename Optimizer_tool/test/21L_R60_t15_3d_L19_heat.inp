@@ -1,0 +1,62 @@
+*HEADING
+The input file of Abaqus heat transfer analysis
+**
+************************************************
+*INCLUDE, INPUT = 21L_R60_t15_3d_heat.fem
+*INCLUDE, INPUT = WSModell_Kinematic_new.ssc
+**
+************************
+**   SOLID SECTIONS
+*************************
+*SOLID SECTION, ELSET=Material, MATERIAL=X6****
+          1.,
+**
+*INITIAL CONDITIONS, TYPE=TEMPERATURE
+ NALL, 20.
+**
+*physical constants, stefan boltzmann=5.669e-11, absolute zero=-273.15
+**
+************************************
+**		STEP 1:					**
+************************************
+*STEP, INC=10000
+*HEAT TRANSFER
+ 0.266, 40, , 
+**
+*MODEL CHANGE, REMOVE
+ W20_3d, W21_3d
+**
+*SRADIATE, OP=NEW
+ AIR_HEAT_EXCHANGE_19, R, 20.0, 0.8
+**
+*SFILM, OP=NEW
+ AIR_HEAT_EXCHANGE_19, F, 20.0, 25.0e-3
+**
+*DFLUX, OP=NEW
+ Rohr_3d, BFNU, 1.0
+ Rohr_HAZ_3d, BFNU, 1.0
+ W1_3d, BFNU, 1.0
+ W2_3d, BFNU, 1.0
+ W3_3d, BFNU, 1.0
+ W4_3d, BFNU, 1.0
+ W5_3d, BFNU, 1.0
+ W6_3d, BFNU, 1.0
+ W7_3d, BFNU, 1.0
+ W8_3d, BFNU, 1.0
+ W9_3d, BFNU, 1.0
+ W10_3d, BFNU, 1.0
+ W11_3d, BFNU, 1.0
+ W12_3d, BFNU, 1.0
+ W13_3d, BFNU, 1.0
+ W14_3d, BFNU, 1.0
+ W15_3d, BFNU, 1.0
+ W16_3d, BFNU, 1.0
+ W17_3d, BFNU, 1.0
+ W18_3d, BFNU, 1.0
+ W19_3d, BFNU, 1.0
+**
+*OUTPUT, FIELD, FREQ=1
+*NODE OUTPUT
+ NT,
+**
+*END STEP
